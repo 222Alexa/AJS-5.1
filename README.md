@@ -49,3 +49,6 @@
     1. Daemon: 10/40
 
 ---
+
+### AJS-OOP
+[![Build status](https://ci.appveyor.com/api/projects/status/s9a6j6w82dymo21d/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ajs-5-1-pvaq6/branch/main)
